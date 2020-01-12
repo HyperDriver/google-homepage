@@ -1,0 +1,161 @@
+
+
+
+.container_logo
+{   
+    height: 233px;
+    margin-top: 46px;
+    width: 292px;
+    margin: 0 auto;
+}
+
+
+#google_logo
+{   
+   
+    margin-top: 109px;
+}
+
+.search_form
+{  
+    height: 70px; 
+    margin-top: 50px;
+    width: 600px;
+    margin: 0 auto;
+    
+}
+
+.search_bar
+{   
+    width: 600px;
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 1px;
+    height: 45px;
+    background: url(search_icon.png) no-repeat scroll 9px 9px;
+    padding-left: 40px;
+}
+
+.buttons
+{   height: 50px; 
+    margin-top: 23px;
+    width: 270px;
+    margin: 0 auto;
+}
+
+.input_buttons
+{   
+    width: 130px;
+    height: 40px;
+    border-style: none;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+}
+
+
+
+
+
+
+.navbar_top
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 150px;
+}
+
+.navbar_top ul 
+{
+    list-style-type: none;
+}
+
+
+.navbar_top ul li
+{
+    float: left;
+    margin-left: 5px ;
+}
+
+.footer
+{   
+    font-size: 10pt;
+    position: absolute;
+    color: #5f6368;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+}
+
+
+.txtlink:hover {
+    text-decoration: underline;
+}
+
+.footer_country 
+{   
+    font-size: 12pt;
+    padding-top: 10px;
+    padding-left: 30px ;
+    background-color: #f1f1f1;
+    border-top: 1px solid #cacaca;
+    height: 6vh;
+
+}
+
+.footer_navbar
+{   
+    
+    background-color: #f1f1f1 ;
+    border-top: 1px solid #cacaca;
+    height: 6vh;
+}
+
+.footer_navbar ul 
+{   
+    overflow: hidden;
+    list-style-type: none;
+    margin: 0;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 0;
+   
+}
+
+.footer_navbar ul li
+{   
+   
+    float: left;
+    margin-left: 10px ;
+    
+    
+}
+
+a:visited, a:link
+{
+    text-decoration: none;
+}
+
+ a:hover {
+    text-decoration: underline;
+}
+
+ a:visited,  a:hover, a:active, a:link {
+    
+    color: #5f6368;
+ }
+
+ a:active,  a:hover,  a:visited {
+    outline-width: 0;
+}
+
+
+body
+{
+    background: #ffffff;
+    color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
